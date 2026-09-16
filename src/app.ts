@@ -4,7 +4,7 @@ import routes from './routes/index';
 
 const app = express();
 
-app.use(cors());
+app.use(cors());R
 app.use(express.json());
 
 // Route utama - cek apakah server berjalan
